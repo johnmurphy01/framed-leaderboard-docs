@@ -4,8 +4,8 @@ Public documentation for the Framed Leaderboard Slack app.
 
 ## Pages
 
-- [Support](./docs/support.md)
-- [Privacy Policy](./docs/privacy-policy.md)
+- [Support](./support.md)
+- [Privacy Policy](./privacy-policy.md)
 
 ## Quick Links
 
